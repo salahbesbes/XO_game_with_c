@@ -29,7 +29,7 @@ To run this project , u have to install SDL2, SDL2_image, SDL2_gfx
     * make all
     * sudo make install
     * then in the make file add this to the flags u are compiling with :
-    			-L/usr/local/lib -lSDL2 -lm -lSDL2_image  -lSDL2_gfx
+    	-L/usr/local/lib -lSDL2 -lm -lSDL2_image  -lSDL2_gfx
 
 ## to clone repo
 
@@ -38,7 +38,7 @@ To run this project , u have to install SDL2, SDL2_image, SDL2_gfx
 ## How to use it
 
     * compile it with :
-    ``make``
+    make
     * execute:
-    ``./a.out``
+    ./a.out
     * enjoy :)
